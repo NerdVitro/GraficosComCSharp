@@ -9,3 +9,14 @@ D:\source\repos\charts\charts\obj\Debug\charts.csproj.GenerateResource.cache
 D:\source\repos\charts\charts\obj\Debug\charts.csproj.CoreCompileInputs.cache
 D:\source\repos\charts\charts\obj\Debug\charts.exe
 D:\source\repos\charts\charts\obj\Debug\charts.pdb
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\bin\Debug\charts.exe.config
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\bin\Debug\charts.exe
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\bin\Debug\charts.pdb
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\obj\Debug\charts.csproj.AssemblyReference.cache
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\obj\Debug\charts.csproj.SuggestedBindingRedirects.cache
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\obj\Debug\charts.Form1.resources
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\obj\Debug\charts.Properties.Resources.resources
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\obj\Debug\charts.csproj.GenerateResource.cache
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\obj\Debug\charts.csproj.CoreCompileInputs.cache
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\obj\Debug\charts.exe
+D:\Repositórios GitHub\GraficosComCSharp\Aplicacao\charts\obj\Debug\charts.pdb
