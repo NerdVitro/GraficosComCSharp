@@ -1,0 +1,11 @@
+D:\source\repos\charts\charts\bin\Debug\charts.exe.config
+D:\source\repos\charts\charts\bin\Debug\charts.exe
+D:\source\repos\charts\charts\bin\Debug\charts.pdb
+D:\source\repos\charts\charts\obj\Debug\charts.csproj.AssemblyReference.cache
+D:\source\repos\charts\charts\obj\Debug\charts.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\charts\charts\obj\Debug\charts.Form1.resources
+D:\source\repos\charts\charts\obj\Debug\charts.Properties.Resources.resources
+D:\source\repos\charts\charts\obj\Debug\charts.csproj.GenerateResource.cache
+D:\source\repos\charts\charts\obj\Debug\charts.csproj.CoreCompileInputs.cache
+D:\source\repos\charts\charts\obj\Debug\charts.exe
+D:\source\repos\charts\charts\obj\Debug\charts.pdb
